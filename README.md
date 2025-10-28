@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Aerospace Engineering Student from Spain, Interested in Quant Finance</h3>
 
 - 🌱 I’m currently learning: **Data analytics by IBM**
--  🔭 I’m currently working on: **A Volatility Surface Model from option market data**
+-  🔭 I’m currently working on: **optimisation of asset integrity inn energy transportation systems, using Machine Learning**
 - 📫 You can reach me at: **mn22dzb@leeds.ac.uk**
 
 <h3 align="left">Connect with me:</h3>
