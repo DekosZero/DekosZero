@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Daniel Zile Bartkevich</h1>
 <h3 align="center">A passionate Aerospace Engineering Student from Spain, Interested in Quant Finance</h3>
 
-- 🌱 I’m currently learning: **Data analytics by IBM**
 -  🔭 I’m currently working on: **optimisation of asset integrity inn energy transportation systems, using Machine Learning**
 - 📫 You can reach me at: **mn22dzb@leeds.ac.uk**
 
