@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Aerospace Engineering Student from Spain, Interested in Quant Finance</h3>
 
 -  🔭 I’m currently working on: **A Statistical Arbitrage Signal Tool**
+-  ✅ Worked on: **Machine Learning deasign optimisation, with adaptive sampling**
 - 📫 You can reach me at: **mn22dzb@leeds.ac.uk**
 
 <h3 align="left">Connect with me:</h3>
