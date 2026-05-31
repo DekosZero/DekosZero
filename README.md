@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Daniel Zile Bartkevich</h1>
 <h3 align="center">A passionate Aerospace Engineering Student from Spain, Interested in Quant Finance</h3>
 
--  🔭 I’m currently working on: **A Statistical Arbitrage Signal Tool**
+-  🔭 I’m currently working on: **A framework for measuring, modelling, and extending the half-life of microstructure trading signals across asset classes.** | **A Poker bot for fullhouse hackathon**
 -  ✅ Worked on: **Machine Learning deasign optimisation, with adaptive sampling**
 - 📫 You can reach me at: **mn22dzb@leeds.ac.uk**
 
